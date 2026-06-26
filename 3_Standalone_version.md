@@ -15,7 +15,7 @@
 
 Please click the link below to download the executable installation file.
 
-* **[Download GreenDA Standalone (Zenodo) 🚀](ZENODO LINK WILL BE INSULTED)**
+* **[Download GreenDA Standalone (Zenodo) 🚀]([ZENODO LINK WILL BE INSULTED](https://zenodo.org/records/20932243?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTc4MjQ4NzU5MCwiZXhwIjoxNzgzNjQxNTk5fQ.eyJpZCI6ImI3YzM5MWZkLTAxYjEtNDVmMS04YzFmLTE0NDI5YWI0ZTNhNiIsImRhdGEiOnt9LCJyYW5kb20iOiI1M2UwZGU1YjZkODFjNzMzMTVlOTZhOThkMDdkOGE0ZCJ9.8Ob-EePpeJ6QnfMVw2Mg2MqgxzMCIEzNmReFrD3QYpQczmCXQ3ofR0IYXjnazqIeByKwTfmR6SdWebhAtzmNZQ))**
 
 ---
 *For guidelines, user manual, and practice datasets, please refer to the main repository [README.md](../README.md).*
