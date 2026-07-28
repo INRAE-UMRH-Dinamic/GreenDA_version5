@@ -50,7 +50,7 @@ This software is officially registered with the **IDDN in France** and is protec
 
 ### 📝 Core Methodology Citation
 For detailed logic and methodology behind this program, please refer to the following paper published in 2026:
-* **[Read the Paper Here](LINK WILL BE ADDED)** *Jeon et al. (2026) Method: GreenDA - A user-friendly tool for processing and exploring large-scale GreenFeed© data*
+* **[Read the Paper Here](https://www.sciencedirect.com/science/article/pii/S2772694026000257)** *Jeon et al. (2026) Method: GreenDA - A user-friendly tool for processing and exploring large-scale GreenFeed© data*
 
 ---
 
