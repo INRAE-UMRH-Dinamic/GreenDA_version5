@@ -11,7 +11,6 @@ To solve these issues, we have developed a user-friendly program to clean and an
 ---
 
 ## 📖 Tutorial & Guidelines
-* **Tutorial Video/Documentation:** You can find the comprehensive tutorial via this **[Tutorial Link](LINK WILL BE ADDED)**.
 * Both versions provide the exact same user guideline, which can be downloaded directly within each program/script. 
 * **We highly recommend referring to the guideline** to ensure accurate data processing. You can practice by following the guideline using the provided example dataset before analyzing your own data.
 
