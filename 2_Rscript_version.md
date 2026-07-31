@@ -21,6 +21,7 @@ To run this version, you must have an established R development environment:
 your-project-folder/
 ├── app.R (or ui.R / server.R)
 └── www/   📂 (Must be here!)
+```
 
 ### 📥 Download Link
 
