@@ -27,7 +27,7 @@ your-project-folder/
 
 Please click the link below to download the executable installation file.
 
-* **[Download GreenDA Standalone (Zenodo) 🚀](https://zenodo.org/records/21671026](https://zenodo.org/records/21700959)**
+* **[Download GreenDA Standalone (Zenodo) 🚀](https://zenodo.org/records/21700959)**
 
 ---
 *For guidelines, user manual, and practice datasets, please refer to the main repository [README.md](../README.md).*
