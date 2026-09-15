@@ -12,3 +12,9 @@
 
 #### 3. Download function upgrade
  - Download descriptive statistics result excel files with .zip file
+
+#### 4. Normality test
+ - Add CH4 data normality test function
+
+#### 5. Outlier removal - Distribution check
+ - Update to the algorithm testing whether the distribution is distinguishable
